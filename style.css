@@ -1,0 +1,16 @@
+.html {
+  width: 700px;
+  height: 500px;
+}
+
+.japper {
+  width: 50vw;
+  height: 100px;
+  background-color: red;
+}
+
+.box {
+  width: 60vw;
+  height: 100px;
+  background-color: blue;
+}
